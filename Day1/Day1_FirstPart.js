@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Chemin vers le fichier texte
-const filePath = 'data/input.txt';
+const filePath = 'Day1/data/input.txt';
 let tabInput = [];
 
 // Lecture du fichier ligne par ligne
